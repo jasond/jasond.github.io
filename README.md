@@ -1,2 +1,6 @@
 # jasond.github.io
-pages site repo
+
+
+agile: maximise work _not_ done.
+
+Agile: maximise work in flight.
